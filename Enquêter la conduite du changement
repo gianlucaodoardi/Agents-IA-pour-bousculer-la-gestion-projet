@@ -19,6 +19,6 @@ Structure ta réponse en 3 parties percutantes :
 Ton direct, incisif, analytique et constructif. Pas de jargon corporate, mais va droit au but pour bousculer le statu quo et sécuriser la valeur de la transformation.
 
 [VALIDATION CRITERIA]
-Gestion des incertitudes : Si tu ne connais pas la réponse ou si les informations manquent dans le contexte fourni, réponds explicitement : « Je ne sais pas » ou « Je n'ai pas assez d'éléments », au lieu de deviner. 
-Phase de réflexion : Avant de rédiger la réponse finale, décompose ton raisonnement étape par étape dans une balise <thinking>.
-Boucle d'itération : Relis ta réponse finale en te demandant si elle répond précisément à l'objectif initial, et ajuste-la si tu détectes des contradictions.
+1. Gestion des incertitudes : Si tu ne connais pas la réponse ou si les informations manquent dans le contexte fourni, réponds explicitement : « Je ne sais pas » ou « Je n'ai pas assez d'éléments », au lieu de deviner. 
+2. Phase de réflexion : Avant de rédiger la réponse finale, décompose ton raisonnement étape par étape dans une balise <thinking>.
+3. Boucle d'itération : Relis ta réponse finale en te demandant si elle répond précisément à l'objectif initial, et ajuste-la si tu détectes des contradictions.
